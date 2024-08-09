@@ -1,0 +1,34 @@
+/* Styles for the form container */
+.form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Styles for the footer where buttons are */
+.footer {
+    display: flex;
+    justify-content: center;
+    gap: 100px; /* Adds space between buttons */
+    margin-top: 20px; /* Adds space above the footer */
+}
+
+/* Styles for the buttons */
+.footer button {
+    padding: 10px 20px; /* Adds padding inside the buttons */
+    background-color: #f0f0f0; /* Light grey background */
+    border: 1px solid #d0d0d0; /* Slightly darker border */
+    border-radius: 5px; /* Rounds the corners of the buttons */
+    cursor: pointer; /* Changes the cursor on hover */
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+.footer button:hover {
+    background-color: #e0e0e0; /* Darker grey on hover */
+}
+
+.footer button:disabled {
+    background-color: #cccccc; /* Disabled button background */
+    cursor: not-allowed; /* Cursor indicates button is disabled */
+}

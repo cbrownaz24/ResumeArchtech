@@ -1,0 +1,15 @@
+github:string,
+username:string,
+first:string,
+last:string,
+phone:string,
+email:string,
+repos:{repo_name:{
+  "name":string, 
+  "url":string, 
+  "api_url":string, 
+  "languages":string?, 
+  "readme": string, 
+  "selected": boolean
+  }
+}

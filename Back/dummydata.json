@@ -1,0 +1,23 @@
+{
+    "project1": {
+      "title": "Simplified Minecraft Development with ThreeJS",
+      "bullets": [
+        "Spearheaded the development of a simplified version of Minecraft using ThreeJS, incorporating key features such as procedural terrain generation, dynamic chunk loading, and mesh instancing to optimize performance.",
+        "Applied Perlin noise algorithms for procedural terrain generation, enhancing user experience through realistic landscapes and seamless world exploration.",
+        "Engineered efficient mesh instancing techniques to minimize render calls, resulting in smoother gameplay and improved graphical performance.",
+        "Implemented intuitive player interactions with the environment by integrating physics for block manipulation and user-friendly UI for material selection.",
+        "Contributed to the creation of a seamless user experience by developing a simple UI for material cycling and integrating crosshair functionality for precise block placement."
+      ]
+    },
+    "project2": {
+        "title": "Simplified Minecraft Development with sdf",
+        "bullets": [
+          "Spearheaded the development of a simplified version of Minecraft using ThreeJS, incorporating key features such as procedural terrain generation, dynamic chunk loading, and mesh instancing to optimize performance.",
+          "Applied Perlin noise algorithms for procedural terrain generation, enhancing user experience through realistic landscapes and seamless world exploration.",
+          "Engineered efficient mesh instancing techniques to minimize render calls, resulting in smoother gameplay and improved graphical performance.",
+          "Implemented intuitive player interactions with the environment by integrating physics for block manipulation and user-friendly UI for material selection.",
+          "Contributed to the creation of a seamless user experience by developing a simple UI for material cycling and integrating crosshair functionality for precise block placement."
+        ]
+      }
+  }
+  
